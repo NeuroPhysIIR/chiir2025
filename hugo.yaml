@@ -1,0 +1,52 @@
+---
+title: "NeuroPhysIIR Workshop at CHIIR 2025"
+baseURL: "https://neurophysiir.github.io/chiir2025"
+theme: "zen"
+languageCode: "en-US"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+rssLimit: 20
+pagination:
+  pagerSize: 10
+  path: page
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+sectionPagesMenu: main
+
+
+params:
+  contact: "damiano.spina@rmit.edu.au"
+  description: "CHIIR 2025 edition of NeuroPhysIIR: International Workshop on NeuroPhysiological Approaches for Interactive Information Retrieval"
+  dateformat: "2 January, 2006"
+  favicon: "favicon.png"
+  feedlinks: true
+  icon: "favicon.ico"
+  image: "favicon.svg"
+  imageMaxWidth: 400
+  logoWidth: 64
+  mobileMenu: true          # Turn on a mobile menu on small screens, default false.
+  mobileMenuOutline: true 
+  poweredby: false
+  realfavicongenerator: true
+  sidebar: true
+  submitted: true
+  menuInHeader: false
+  
+  mainSections:
+   - "section1"
+   - "section2"
+   
+
+
+  footer: "The organizers acknowledge that this workshop was conceived in First Nations lands. We acknowledge: the Huron-Wendat and Petun First Nations, the Seneca, and the Mississaugas of the Credit River peoples on whose sacred lands the University of Toronto operates; the  Alabama-Coushatta, Caddo, Carrizo/Comecrudo, Coahuiltecan, Comanche, Kickapoo, Lipan Apache, Tonkawa and Ysleta Del Sur Pueblo on whose sacred lands the University of Texas operates; the Woi Wurrung and Boon Wurrung language groups of the eastern Kulin Nation on whose unceded lands RMIT University operates. We acknowledge their Ancestors and Elders, past, present, and emerging, and we respectfully acknowledge their connection to Country."

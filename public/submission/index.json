@@ -1,0 +1,13 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Call for Stubmissions on NeuroPhysIIR Workshop at CHIIR 2025",
+    "description": "Recent content in Call for Stubmissions on NeuroPhysIIR Workshop at CHIIR 2025",
+    "home_page_url": "http://localhost:1313/chiir2025/",
+    "feed_url": "http://localhost:1313/chiir2025/submission/index.json",
+    "language": "en-US",
+    "icon": "http://localhost:1313/chiir2025/favicon.ico",
+    "favicon": "http://localhost:1313/chiir2025/favicon.png",
+    "items": [
+        ]
+}
