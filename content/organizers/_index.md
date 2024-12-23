@@ -5,7 +5,7 @@ weight: 10
 
 
 - [Associate Prof. Jacek Gwizdka](https://jacekg.ischool.utexas.edu/), University of Texas, USA
-- [Prof.~Javad Mostafa](https://ischool.utoronto.ca/faculty-profile/javed-mostafa/), University of Toronto, Canada
+- [Prof. Javed Mostafa](https://ischool.utoronto.ca/faculty-profile/javed-mostafa/), University of Toronto, Canada
 - [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/), Tsinghua University, China
 - [Kaixin Ji](https://ji-kaixin.com), RMIT University, Australia
 - [Associate Prof. Yashar Moshfeghi](https://academic.yashmosh.com), University of Strathclyde, UK
