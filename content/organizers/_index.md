@@ -11,5 +11,5 @@ weight: 10
 - [Associate Prof. Yashar Moshfeghi](https://academic.yashmosh.com), University of Strathclyde, UK
 - [Associate Prof. Tuukka Ruotsalo](https://www.lut.fi/fi/profiilit/tuukka-ruotsalo), University of Copenhagen, Denmark & LUT University, Finland
 - [Dr. Damiano Spina](https://www.damianospina.com), RMIT University, Australia
-{{<img src="images/damiano.jpg" alt="Damiano Spina" size="1000px" >}}
+{{<img src="images/damiano.jpg" alt="Damiano Spina" >}}
 
