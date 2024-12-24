@@ -30,11 +30,11 @@ params:
   description: "CHIIR 2025 edition of NeuroPhysIIR: International Workshop on NeuroPhysiological Approaches for Interactive Information Retrieval"
   dateformat: "2 January, 2006"
   favicon: "favicon.png"
-  feedlinks: true
+  feedlinks: false
   icon: "favicon.ico"
   image: "favicon.svg"
   imageMaxWidth: 400
-  logoWidth: 64
+  logoWidth: 90
   mobileMenu: true          # Turn on a mobile menu on small screens, default false.
   mobileMenuOutline: true 
   poweredby: false
