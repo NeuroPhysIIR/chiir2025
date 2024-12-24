@@ -3,11 +3,11 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Search on NeuroPhysIIR Workshop at CHIIR 2025",
     "description": "Recent content in Search on NeuroPhysIIR Workshop at CHIIR 2025",
-    "home_page_url": "http://localhost:1313/chiir2025/",
-    "feed_url": "http://localhost:1313/chiir2025/search/index.json",
+    "home_page_url": "http://localhost:56848/chiir2025/",
+    "feed_url": "http://localhost:56848/chiir2025/search/index.json",
     "language": "en-US",
-    "icon": "http://localhost:1313/chiir2025/favicon.ico",
-    "favicon": "http://localhost:1313/chiir2025/favicon.png",
+    "icon": "http://localhost:56848/chiir2025/favicon.ico",
+    "favicon": "http://localhost:56848/chiir2025/favicon.png",
     "items": [
         ]
 }
