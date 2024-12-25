@@ -1,5 +1,5 @@
 ---
-title: "Call for Stubmissions"
+title: "Call for Submissions"
 weight: 4
 ---
 
