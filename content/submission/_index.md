@@ -30,9 +30,11 @@ What do we already know? What are the one or two key resources we already have?
 
 List any resources, collaborations, research goals, or anything else that may help along the way.
 
-### Positionality statement and ethical considerations
+### Ethical considerations
 
-Briefly explain how author's identity relates to the work described in the statement, and how that identity may impact the research. Also briefly discuss any ethical considerations that may be relevant.
+Please discuss any ethical considerations that may be relevant. For example, privacy and confidentiality of data. 
+
+### Summary  
 
 Statements can be submitted by filling out a form (link to be provided). Statements will then be made available to participants through a shared folder.
 
