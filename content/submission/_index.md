@@ -3,7 +3,23 @@ title: "Call for Submissions"
 weight: 4
 ---
 
-## Before the NeuoPhysIIR'25 workshop
+The International Workshop on NeuroPhysiological Approaches for Interactive Information Retrieval (NeuroPhysIIR'25) aims to bringing together researchers from information retrieval, information science, human-computer interaction, cognitive neuroscience, and related fields, to foster cross-disciplinary collaboration and accelerate progress in neurophysiologically-informed IIR research. This include research involving facial expression analysis, eye tracking, measurements of peripheral physiology – electrodermal activity (EDA), galvanic skin response (GSR), Photoplethysmography (PPG), etc –, brain-computer interfaces (BCI)  for measuring human reactions to information – electroencephalogram (EEG) or functional near-infrared spectroscopy (fNIRS) based interfaces –, among others.
+
+Topics of interest include (but are not limited to):
+ - Resources, methodologies, and/or best practices for neurophysiological IIR
+ - Replicability and reproducibility of experiments using neurophysiological signals
+ - Using neurophysiological measures for evaluation
+ - Using neurophysiology as a feedback channel
+ - Brain-Computer Interfaces for information retrieval and generation
+ - Measuring user experience during human-information interaction using neurophysiological methods
+
+ 
+## Before the NeuoPhysIIR'25 workshop (until Feb 28)
+
+1. Get a copy of the template: [bit.ly/NeuroPhysIIR_template](https://bit.ly/NeuroPhysIIR_template)
+2. Write your statement using the template
+3. Submit your statement by filling out the form: [bit.ly/NeuroPhysIIR_form](https://bit.ly/NeuroPhysIIR_form)
+
 Statements and responses will be collected from potential participants that are willing to discuss challenges and opportunities to advance knowledge in neurophysiological approaches for interactive IR. 
 
 A statement consists of about two paragraphs addressing each of the following **five points**:
@@ -30,17 +46,19 @@ What do we already know? What are the one or two key resources we already have?
 
 List any resources, collaborations, research goals, or anything else that may help along the way.
 
-### Ethical considerations
+### Ethical Considerations
 
-Please discuss any ethical considerations that may be relevant. For example, privacy and confidentiality of data. 
+Please discuss any ethical considerations that may be relevant. For example, privacy and confidentiality of data.
 
-### Summary  
+### Summary 
+Statements can be submitted by using [this template](https://bit.ly/NeuroPhysIIR_template) as reference and by filling out [this form](https://bit.ly/NeuroPhysIIR_form): [bit.ly/NeuroPhysIIR_form](bit.ly/NeuroPhysIIR_form).
 
-Statements can be submitted by filling out a form (link to be provided). Statements will then be made available to participants through a shared folder.
+## Between the submission deadline and the workshop (March)
 
+Statements will be made available to participants through a shared folder (T.B.A.) and in the workshop [Discord channel](https://discord.gg/qKm3PXQcv)
 
 Responses to statements can be added as comments directly to the statements. You are encouraged but not required to include your name in the PDF file; if you don't, the statement or response will remain anonymous.
 
-## During the NeuroPhysIIR workshop
+## During the NeuroPhysIIR workshop (27 or 28 of March)
 
-We will time to discuss statements and responses during the workshop. Participants will collaboratively contribute to the writing of the workshop report, which will be submitted to SIGIR Forum.
+We will have time to discuss statements and responses during the workshop. Participants will collaboratively contribute to the writing of the workshop report, which will be submitted to SIGIR Forum.
