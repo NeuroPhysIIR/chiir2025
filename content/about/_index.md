@@ -6,7 +6,7 @@ weight: 2
 
 
 
-The International Workshop on NeuroPhysiological Approaches for Interactive Information Retrieval (NeuroPhysIIR'25) aims to bringing together researchers from information retrieval, information science, human-computer interaction, cognitive neuroscience, and related fields, to foster cross-disciplinary collaboration and accelerate progress in neurophysiologically-informed IIR research. This include research involving facial expression analysis, eye tracking, measurements of peripheral physiology – electrodermal activity (EDA), galvanic skin response (GSR), Photoplethysmography (PPG), etc –, brain-computer interfaces (BCI)  for measuring human reactions to information – electroencephalogram (EEG) or functional near-infrared spectroscopy (fNIRS) based interfaces –, among others.
+The International Workshop on NeuroPhysiological Approaches for Interactive Information Retrieval (NeuroPhysIIR'25) aims to bringing together researchers from information retrieval, information science, human-computer interaction, cognitive neuroscience, and related fields, to foster cross-disciplinary collaboration and accelerate progress in neurophysiologically-informed IIR research. This includes research involving facial expression analysis, eye tracking, measurements of peripheral physiology – electrodermal activity (EDA), galvanic skin response (GSR), Photoplethysmography (PPG), etc –, brain-computer interfaces (BCI)  for measuring human reactions to information – electroencephalogram (EEG) or functional near-infrared spectroscopy (fNIRS) based interfaces –, among others.
 
 Topics of interest include (but are not limited to):
  - Resources, methodologies, and/or best practices for neurophysiological IIR
