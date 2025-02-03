@@ -1,5 +1,5 @@
 ---
-title: "NeuroPhysIIR Workshop at CHIIR 2025"
+title: "NeuroPhysIIR Workshop at ACM SIGIR CHIIR 2025"
 baseURL: "https://neurophysiir.github.io/chiir2025"
 theme: ["zen"]
 languageCode: "en-US"
@@ -22,8 +22,15 @@ outputs:
   home: ["HTML","RSS", "JSON", "SearchIndex"]
   section: ["HTML","RSS", "JSON"]
 
-sectionPagesMenu: main
 
+
+menu:
+  main:
+    - name: "Discord Channel"
+      url: "https://discord.gg/qKm3PXQcvJ"
+      weight: 200
+
+sectionPagesMenu: main
 
 params:
   contact: "damiano.spina@rmit.edu.au"
@@ -43,8 +50,11 @@ params:
   submitted: true
   menuInHeader: false
   mainSections:
-   - "section1"
-   - "section2"
+   - "Home"
+   - "About"
+   - "Important Dates"
+   - "Submission"
+   - "Organizers"
    
 
 
