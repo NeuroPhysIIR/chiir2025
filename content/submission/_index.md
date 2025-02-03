@@ -14,7 +14,7 @@ Topics of interest include (but are not limited to):
  - Measuring user experience during human-information interaction using neurophysiological methods
 
  
-## Before the NeuoPhysIIR'25 workshop (until Feb 28)
+## Before the NeuoPhysIIR'25 workshop (due 28 Feb 2025)
 
 1. Get a copy of the template: [bit.ly/NeuroPhysIIR_template](https://bit.ly/NeuroPhysIIR_template)
 2. Write your statement using the template
@@ -53,12 +53,16 @@ Please discuss any ethical considerations that may be relevant. For example, pri
 ### Summary 
 Statements can be submitted by using [this template](https://bit.ly/NeuroPhysIIR_template) as reference and by filling out [this form](https://bit.ly/NeuroPhysIIR_form): [bit.ly/NeuroPhysIIR_form](bit.ly/NeuroPhysIIR_form).
 
-## Between the submission deadline and the workshop (March)
+## Between the submission deadline and the workshop (March 2025)
 
 Statements will be made available to participants through a shared folder (T.B.A.) and in the workshop [Discord channel](https://discord.gg/qKm3PXQcv)
 
 Responses to statements can be added as comments directly to the statements. You are encouraged but not required to include your name in the PDF file; if you don't, the statement or response will remain anonymous.
 
-## During the NeuroPhysIIR workshop (27 or 28 of March)
+## During the NeuroPhysIIR workshop (27 or 28 March 2025)
 
-We will have time to discuss statements and responses during the workshop. Participants will collaboratively contribute to the writing of the workshop report, which will be submitted to SIGIR Forum.
+We will have time to discuss statements and responses during the workshop. More details to follow.
+
+## After the workshop (April-May 2025) 
+
+Participants will collaboratively contribute to the writing of the workshop report, which will be submitted to SIGIR Forum.
