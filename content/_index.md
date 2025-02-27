@@ -5,8 +5,8 @@ menu: "main"
 ---
 ---
 > 🪧 **_New!_** 
-> The [Call for Submissions](./submission) is up! 
-> Submit yours by Feb 28 using [this template](https://bit.ly/NeuroPhysIIR_template) and [this form](https://bit.ly/NeuroPhysIIR_form).
+> The [Call for Submissions](./submission) has been extended until March 8!
+> Submit yours by ~~Feb 28~~March 8 using [this template](https://bit.ly/NeuroPhysIIR_template) and [this form](https://bit.ly/NeuroPhysIIR_form).
 ---
 
 

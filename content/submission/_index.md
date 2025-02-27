@@ -14,7 +14,7 @@ Topics of interest include (but are not limited to):
  - Measuring user experience during human-information interaction using neurophysiological methods
 
  
-## Before the NeuoPhysIIR'25 workshop (due 28 Feb 2025)
+## Before the NeuoPhysIIR'25 workshop (due ~~28 Feb~~8 March 2025)
 
 1. Get a copy of the template: [bit.ly/NeuroPhysIIR_template](https://bit.ly/NeuroPhysIIR_template)
 2. Write your statement using the template
