@@ -59,7 +59,7 @@ Statements will be made available to participants through a shared folder (T.B.A
 
 Responses to statements can be added as comments directly to the statements. You are encouraged but not required to include your name in the PDF file; if you don't, the statement or response will remain anonymous.
 
-## During the NeuroPhysIIR workshop (27 or 28 March 2025)
+## During the NeuroPhysIIR workshop (27 March 2025)
 
 We will have time to discuss statements and responses during the workshop. More details to follow.
 

@@ -4,13 +4,14 @@ weight: 1
 menu: "main"
 ---
 ---
-> 🪧 **_New!_** 
+> 🪧 **_News_** 
 > The [Call for Submissions](./submission) has been extended until March 8!
-> Submit yours by ~~Feb 28~~March 8 using [this template](https://bit.ly/NeuroPhysIIR_template) and [this form](https://bit.ly/NeuroPhysIIR_form).
+> The workshop day is confirmed for Thursday, 27th of March at CHIIR'25.
+> Submit yours by ~~Feb 28~~ March 8 using [this template](https://bit.ly/NeuroPhysIIR_template) and [this form](https://bit.ly/NeuroPhysIIR_form).
 ---
 
 
-To be held as a full-day workshop at the [2025 ACM SIGIR CHIIR in Naarm/Melbourne, Australia](https://chiir2025.github.io/) in March 2025. 
+To be held as a full-day workshop at the [2025 ACM SIGIR CHIIR in Naarm/Melbourne, Australia](https://chiir2025.github.io/) on the 27th of March 2025. 
 [{{<svg "chiir2025.svg" >}}](https://chiir2025.github.io/)
 
 Note that registration costs are complimentary with a registration for the main conference.
