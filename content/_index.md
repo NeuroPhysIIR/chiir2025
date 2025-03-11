@@ -5,9 +5,7 @@ menu: "main"
 ---
 ---
 > 🪧 **_News_** 
-> The [Call for Submissions](./submission) has been extended until March 8!
-> The workshop day is confirmed for Thursday, 27th of March at CHIIR'25.
-> Submit yours by ~~Feb 28~~ March 8 using [this template](https://bit.ly/NeuroPhysIIR_template) and [this form](https://bit.ly/NeuroPhysIIR_form).
+> We've received a total of 11 statements. We have a few days to comment on them and get ready for our discussion at the workshop: [NeuroPhysIIR@CHIIR'25 Statements](https://drive.google.com/drive/folders/1zsoLTtV83s-ufDZ6qMupGvl_EHRKIlrR?usp=sharing)
 ---
 
 
