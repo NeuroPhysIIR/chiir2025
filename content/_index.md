@@ -6,6 +6,8 @@ menu: "main"
 ---
 > 🪧 **_News_** 
 >
+> The workshop will take place at the [RMIT Storey Hall, Building 16](https://www.rmit.edu.au/about/our-heritage/historical-buildings/storey-hall).
+>
 > The [tentative schedule](./schedule) of the workshop is up!
 >
 > We've received a total of 11 statements. We have a few days to comment on them and get ready for our discussion at the workshop: [NeuroPhysIIR@CHIIR'25 Statements](https://drive.google.com/drive/folders/1zsoLTtV83s-ufDZ6qMupGvl_EHRKIlrR?usp=sharing)

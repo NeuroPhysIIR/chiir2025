@@ -4,6 +4,7 @@ draft: false
 weight: 2
 ---
 
+The workshop will take place at the [RMIT Storey Hall, Building 16](https://www.rmit.edu.au/about/our-heritage/historical-buildings/storey-hall).
 
 | Time | Activity|
 | -------------------------------- | ------------------------------------------------------------------------ |
