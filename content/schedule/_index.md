@@ -43,7 +43,7 @@ We've received a total of 11 statements. We have a few days to comment on them a
 5. Robust Emotion Prediction in Human-AI Collaboration for High-Stake and Dynamic Environment (Adnan Ahmad, Bahareh Nakisa, and Mohammad Naim Rastgoo)
 6. An Eye-tracking Study of How Users are Influenced to Search in the Era of GenAI (Sara Fahad Dawood Al Lawati)
 7. Using Eye-Tracking to Enhance Interactive Learning in Online Education (Gavindya Jayawardena and Jacek Gwizdka)
-8. Neurophysiological Feedback for Trust-Driven Adaptive Explainability in Human-Machine Teaming (Nishani Fernando, Bahareh Nakisa, Adnan Ahman, and Mohammad Naim Rastgoo)
+8. Neurophysiological Feedback for Trust-Driven Adaptive Explainability in Human-Machine Teaming (Nishani Fernando, Bahareh Nakisa, Adnan Ahmad, and Mohammad Naim Rastgoo)
 9. Skinner’s Black Box: Computational Approaches to Adaptive User Behaviour Under Cognitive Constraints (Fletcher Scott)
 10. What Should We Teach in Neurophysiological Interactive Information Retrieval? (Damiano Spina)
 11. Neural Signatures of Query Precision: A Neurophysiological Investigation of User Responses to Varying Levels of Query Specificity in LLM-Based Search (Shuoqi Sun)
