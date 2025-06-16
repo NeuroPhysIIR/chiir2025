@@ -45,4 +45,4 @@ We've discussed a total of 12 statements at the workshop: [NeuroPhysIIR@CHIIR'25
 9. Skinner’s Black Box: Computational Approaches to Adaptive User Behaviour Under Cognitive Constraints (Fletcher Scott)
 10. What Should We Teach in Neurophysiological Interactive Information Retrieval? (Damiano Spina)
 11. Neural Signatures of Query Precision: A Neurophysiological Investigation of User Responses to Varying Levels of Query Specificity in LLM-Based Search (Shuoqi Sun)
-12. Position Context Is All You Need (Flora Salim)
+12. Is Context All You Need? The Case for Personalised Information Behaviour Sensing and Understanding in the Wild (Flora Salim)
