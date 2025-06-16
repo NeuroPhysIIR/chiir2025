@@ -32,9 +32,7 @@ The workshop will take place at the [RMIT Storey Hall, Building 16](https://www.
 
 # List of Statements
 
-We've received a total of 11 statements. We have a few days to comment on them and get ready for our discussion at the workshop: [NeuroPhysIIR@CHIIR'25 Statements](https://drive.google.com/drive/folders/1zsoLTtV83s-ufDZ6qMupGvl_EHRKIlrR?usp=sharing)
-
-
+We've discussed a total of 12 statements at the workshop: [NeuroPhysIIR@CHIIR'25 Statements](https://drive.google.com/drive/folders/1zsoLTtV83s-ufDZ6qMupGvl_EHRKIlrR?usp=sharing)
 
 1. Quantifying Cognitive Biases Using Physiological Sensing (Nattapat Boonprakong)
 2. When Should I Stop Searching? Exploring Neuro-Correlates of Information Need Satisfaction in Online Search (Huimin Tang, Boon-Giin Lee, Dave Towey, Max L. Wilson, and Matthew Pike)
@@ -47,3 +45,4 @@ We've received a total of 11 statements. We have a few days to comment on them a
 9. Skinner’s Black Box: Computational Approaches to Adaptive User Behaviour Under Cognitive Constraints (Fletcher Scott)
 10. What Should We Teach in Neurophysiological Interactive Information Retrieval? (Damiano Spina)
 11. Neural Signatures of Query Precision: A Neurophysiological Investigation of User Responses to Varying Levels of Query Specificity in LLM-Based Search (Shuoqi Sun)
+12. Position Context Is All You Need (Flora Salim)
